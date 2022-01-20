@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **rmcgranaghan/rmcgranaghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about *[Flourishing Salons](https://twitter.com/FlourishSalons)*
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a competitive gymnast for the first 20 years of my life
--->
