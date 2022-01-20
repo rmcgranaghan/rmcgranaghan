@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about *[Flourishing Salons](https://twitter.com/FlourishSalons)*
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a competitive gymnast for the first 20 years of my life
+- Sometimes I can be found [@AeroSciengineer](https://twitter.com/AeroSciengineer)
